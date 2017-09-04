@@ -20,4 +20,4 @@ Will follow soon.
 Will follow soon.
 
 ## Is there a circuit diagram and some manuals?
-Will follow soon
+Will follow soon.
