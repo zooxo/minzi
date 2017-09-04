@@ -3,7 +3,7 @@
 ## What is MINZI?
 MINZI is based on an ATmega32 chip (delivered as arduino pro micro board).
 It has got a 7 segment LED display and a keyboard with 2 keys.
-Despite this low end hardware extensions MINZI is capable of some useable applications - and the become more and more ...
+Despite this low end hardware extensions MINZI is capable of some useable applications - and they become more and more ...
 
 ## Which apps does MINZI offer?
 For now MINZI has following apps:
